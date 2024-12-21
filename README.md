@@ -42,9 +42,9 @@
 
 This CSS demonstrates your knowledge of:
 
-Modern CSS features (variables, flexbox, grid, responsiveness).
-Organized, reusable code structure.
-Creating flexible and visually appealing designs.
+1. Modern CSS features (variables, flexbox, grid, responsiveness).
+2. Organized, reusable code structure.
+3. Creating flexible and visually appealing designs.
 
 
 ### What I learned
