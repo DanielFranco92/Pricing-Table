@@ -3,7 +3,7 @@
 <h1 align="center">Pricing Table | devChallenges</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://friendly-pastelito-daa574.netlify.app/" target="_blank">Pricing Table</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for a challenge <a href="https://devchallenges.io/challenge/pricing-table-section-challenge" target="_blank">Pricing Table</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
 </div>
 
 <div align="center">
@@ -38,18 +38,31 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![image](https://github.com/user-attachments/assets/91ea401e-8594-4320-986b-cd3fa7bc5bb1)
 
 <!--
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - What have you learned/improved?
-- Your wisdom? :)
--->
+   This CSS demonstrates your knowledge of:
+
+   Modern CSS features (variables, flexbox, grid, responsiveness).
+   Organized, reusable code structure.
+   Creating flexible and visually appealing designs.
+
 
 ### What I learned
 
-<!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge. -->
+1. CSS Variables: Defined global variables in :root for colors and fonts.
+2. Resetting Styles: Used box-sizing: border-box across all elements for consistent size calculations.
+3. Typography and REM Scaling
+4. Responsive Design
+5. Grids (CSS Grid)
+6. Flexbox
+7. Reusable Components
+8. Visual Effects
+9. Section Organization
+10. Interactive Buttons
 
 ### Useful resources
 
