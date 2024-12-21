@@ -40,15 +40,12 @@
 
 ![image](https://github.com/user-attachments/assets/91ea401e-8594-4320-986b-cd3fa7bc5bb1)
 
-<!--
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - What have you learned/improved?
-   This CSS demonstrates your knowledge of:
+This CSS demonstrates your knowledge of:
 
-   Modern CSS features (variables, flexbox, grid, responsiveness).
-   Organized, reusable code structure.
-   Creating flexible and visually appealing designs.
+Modern CSS features (variables, flexbox, grid, responsiveness).
+Organized, reusable code structure.
+Creating flexible and visually appealing designs.
 
 
 ### What I learned
