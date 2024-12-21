@@ -40,7 +40,6 @@
 
 ![image](https://github.com/user-attachments/assets/91ea401e-8594-4320-986b-cd3fa7bc5bb1)
 
-- What have you learned/improved?
 This CSS demonstrates your knowledge of:
 
 Modern CSS features (variables, flexbox, grid, responsiveness).
